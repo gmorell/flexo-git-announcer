@@ -1,4 +1,4 @@
-# Flexo Git Announcer
+#Flexo Git Announcer
 
 polls github at regular intervals and announces commits on followed users
 
